@@ -1,0 +1,12 @@
+R:\Users\User\source\repos\LBA1SaveGame\bin\Release\files\options.xml
+R:\Users\User\source\repos\LBA1SaveGame\bin\Release\files\saveGame.xml
+R:\Users\User\source\repos\LBA1SaveGame\bin\Release\LBA1SaveGame.exe.config
+R:\Users\User\source\repos\LBA1SaveGame\bin\Release\LBA1SaveGame.exe
+R:\Users\User\source\repos\LBA1SaveGame\bin\Release\LBA1SaveGame.pdb
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.csprojAssemblyReference.cache
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.LBA1SaveGame.resources
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.Properties.Resources.resources
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.csproj.GenerateResource.cache
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.csproj.CoreCompileInputs.cache
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.exe
+R:\Users\User\source\repos\LBA1SaveGame\obj\Release\LBA1SaveGame.pdb

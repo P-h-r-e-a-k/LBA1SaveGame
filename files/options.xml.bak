@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<options>
+	<LBADir> <!-- used for save file location -->
+		R:\GOG Games\Little Big Adventure_Clean
+	</LBADir>
+	<interval>
+		10
+	</interval>
+	<deleteSaves>
+		False
+	</deleteSaves>
+	<currentRouteFile>
+		.\files\routeFiles\route.xml
+	</currentRouteFile>
+	<autoSaveSplits>
+		False
+	</autoSaveSplits>
+	<showSubArea>
+		False
+	</showSubArea>
+	<showMessageBoxOnRunEnd>
+		True
+	</showMessageBoxOnRunEnd>
+	<alwaysOnTop>
+		False
+	</alwaysOnTop>
+	<precisionDigits>
+		3
+	</precisionDigits>
+	<disableAutoZoom>
+		True
+	</disableAutoZoom>
+	<saveColumnWidths>
+		True
+	</saveColumnWidths>
+	<mainLVColumnWidths>
+		<areaName>-1</areaName>
+		<differenceBest>-1</differenceBest>
+		<differencePB>-1</differencePB>
+		<time>60</time>
+	</mainLVColumnWidths>
+	<mainWindow>	
+		<positionX />
+		<positionY />
+		<height />
+		<width />
+		<alwaysOnTop>
+			False
+		</alwaysOnTop>
+	</mainWindow>
+	<notesWindow>
+		<positionX />
+		<positionY />
+		<height />
+		<width />
+		<alwaysOnTop />
+	</notesWindow>		
+</options>
