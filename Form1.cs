@@ -36,9 +36,14 @@ namespace LBA1SaveGame
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
-            hotkeyF7.UnRegisterHotKeys();
-            //hotkeyF8.UnRegisterHotKeys();
-            hotkeyF9.UnRegisterHotKeys();
+            try
+            {
+                hotkeyF7.UnRegisterHotKeys();
+                //hotkeyF8.UnRegisterHotKeys();
+                hotkeyF9.UnRegisterHotKeys();
+            }
+            catch { };
+
         }
 
         protected override void WndProc(ref Message keyPressed)
